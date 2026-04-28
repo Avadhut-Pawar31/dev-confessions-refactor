@@ -14,3 +14,6 @@ An anonymous confession app for developers to share their bugs, deadline stress,
 npm install && npm start
 
 ## Port: 3000
+## Project Submission Note
+
+This project was refactored using MVC structure, improved variable naming, service separation, and environment configuration as part of Challenge 1.11.
